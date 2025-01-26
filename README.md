@@ -24,7 +24,7 @@
 
 ## Description
 
-Eco backend repository
+Eco backend repository v1
 
 ## Project setup
 
